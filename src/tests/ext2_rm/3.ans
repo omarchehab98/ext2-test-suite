@@ -10,7 +10,7 @@ Block group:
     block bitmap: 3
     inode bitmap: 4
     inode table: 5
-    free blocks: 138
+    free blocks: 105
     free inodes: 21
     used_dirs: 2
 Block bitmap: 11111111 11111111 11111100 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000001

@@ -1,0 +1,5 @@
+{
+    "description": "removed file whose resources have been allocated should not be restorable",
+    "image": "twolevel-norestore-afile.img",
+    "args": ["/afile"]
+}

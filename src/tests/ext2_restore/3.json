@@ -1,0 +1,5 @@
+{
+    "description": "restore file that already exists",
+    "image": "multilevel.img",
+    "args": ["/level1"]
+}

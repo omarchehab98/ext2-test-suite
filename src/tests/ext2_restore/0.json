@@ -1,0 +1,5 @@
+{
+    "description": "restore file",
+    "image": "removed.img",
+    "args": ["/c.txt"]
+}

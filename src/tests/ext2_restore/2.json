@@ -1,0 +1,6 @@
+{
+    "skip": true,
+    "description": "restore large file",
+    "image": "removed-largefile.img",
+    "args": ["/largefile.txt"]
+}

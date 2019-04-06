@@ -1,0 +1,6 @@
+{
+    "skip": true,
+    "description": "restore file dir_entry index >0 in padding",
+    "image": "onefilerm.img",
+    "args": ["/afile"]
+}
