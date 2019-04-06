@@ -1,0 +1,5 @@
+{
+    "description": "create subdirectory with adjacent slashes",
+    "image": "multilevel.img",
+    "args": ["////level1///sub/////"]
+}

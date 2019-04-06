@@ -1,0 +1,5 @@
+{
+    "description": "rm file",
+    "image": "manyfiles.img",
+    "args": ["/c.txt"]
+}

@@ -1,0 +1,5 @@
+{
+    "description": "rm large file",
+    "image": "largefile.img",
+    "args": ["/largefile.txt"]
+}

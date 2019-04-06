@@ -1,0 +1,6 @@
+<CODE> 1
+<STDOUT>
+
+<STDERR>
+ext2_mkdir: relative/is/not/allowed: Invalid argument
+

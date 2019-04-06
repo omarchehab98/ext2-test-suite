@@ -1,0 +1,5 @@
+{
+    "description": "creates hard link and increments links count",
+    "image": "onefile.img",
+    "args": ["/afile", "/bfile"]
+}

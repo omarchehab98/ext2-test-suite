@@ -1,0 +1,5 @@
+{
+    "description": "copy 1024 bytes file should one datablock",
+    "image": "emptydisk.img",
+    "args": ["fixtures/files/oneblock.txt", "/oneblock"]
+}

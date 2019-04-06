@@ -1,0 +1,5 @@
+{
+    "description": "copy cannot overwrite",
+    "image": "onefile.img",
+    "args": ["fixtures/files/hello.txt", "/afile"]
+}

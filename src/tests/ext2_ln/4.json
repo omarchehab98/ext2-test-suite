@@ -1,0 +1,5 @@
+{
+    "description": "hard link from an existing file to an existing file in subdir should not work",
+    "image": "manyfiles.img",
+    "args": ["/a.txt", "/level1/d.txt"]
+}

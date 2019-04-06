@@ -1,0 +1,5 @@
+{
+    "description": "rm file in subdirectory 1",
+    "image": "manyfiles.img",
+    "args": ["/level1/d.txt"]
+}

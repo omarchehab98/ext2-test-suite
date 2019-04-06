@@ -1,0 +1,5 @@
+{
+    "description": "trailing slash",
+    "image": "emptydisk.img",
+    "args": ["/afile/"]
+}

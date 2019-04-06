@@ -1,0 +1,5 @@
+{
+    "description": "copy file into subdir",
+    "image": "multilevel.img",
+    "args": ["fixtures/files/hello.txt", "/level1"]
+}

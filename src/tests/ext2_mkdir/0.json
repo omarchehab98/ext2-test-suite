@@ -1,0 +1,5 @@
+{
+    "description": "create directory",
+    "image": "emptydisk.img",
+    "args": ["/afile"]
+}

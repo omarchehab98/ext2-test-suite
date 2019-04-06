@@ -1,0 +1,5 @@
+{
+    "description": "copy file and rename",
+    "image": "emptydisk.img",
+    "args": ["fixtures/files/hello.txt", "/hello"]
+}

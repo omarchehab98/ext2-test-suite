@@ -1,0 +1,5 @@
+{
+    "description": "copy file that does not exist in host fs",
+    "image": "emptydisk.img",
+    "args": ["fixtures/files/IDONTEXIST", "/mustnotwork"]
+}

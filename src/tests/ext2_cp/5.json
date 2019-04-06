@@ -1,0 +1,5 @@
+{
+    "description": "copy large file should use multiple datablocks",
+    "image": "emptydisk.img",
+    "args": ["fixtures/files/largefile.txt", "/largefile"]
+}

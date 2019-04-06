@@ -1,0 +1,11 @@
+{
+  "name": "csc369-a4-test",
+  "private": true,
+  "scripts": {
+    "test": "mocha src/run.js",
+    "readimages": "./src/bin/readimage ./src/fixtures/images/manyfiles.img > ./src/fixtures/images/manyfiles.txt && ./src/bin/readimage ./src/fixtures/images/removed-largefile.img > ./src/fixtures/images/removed-largefile.txt && ./src/bin/readimage ./src/fixtures/images/removed.img > ./src/fixtures/images/removed.txt && ./src/bin/readimage ./src/fixtures/images/deleteddirectory.img > ./src/fixtures/images/deleteddirectory.txt && ./src/bin/readimage ./src/fixtures/images/deletedfile.img > ./src/fixtures/images/deletedfile.txt && ./src/bin/readimage ./src/fixtures/images/emptydisk.img > ./src/fixtures/images/emptydisk.txt && ./src/bin/readimage ./src/fixtures/images/hardlink.img > ./src/fixtures/images/hardlink.txt && ./src/bin/readimage ./src/fixtures/images/largefile.img > ./src/fixtures/images/largefile.txt && ./src/bin/readimage ./src/fixtures/images/multilevel.img > ./src/fixtures/images/multilevel.txt && ./src/bin/readimage ./src/fixtures/images/onedirectory.img > ./src/fixtures/images/onedirectory.txt && ./src/bin/readimage ./src/fixtures/images/onefile.img > ./src/fixtures/images/onefile.txt && ./src/bin/readimage ./src/fixtures/images/twolevel-corrupt.img > ./src/fixtures/images/twolevel-corrupt.txt && ./src/bin/readimage ./src/fixtures/images/twolevel-norestore-afile.img > ./src/fixtures/images/twolevel-norestore-afile.txt && ./src/bin/readimage ./src/fixtures/images/twolevel.img > ./src/fixtures/images/twolevel.txt && ./src/bin/readimage ./src/fixtures/images/twolevel_modified.img > ./src/fixtures/images/twolevel_modified.txt"
+  },
+  "dependencies": {
+    "mocha": "^6.0.2"
+  }
+}

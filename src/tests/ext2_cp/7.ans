@@ -1,0 +1,6 @@
+<CODE> 1
+<STDOUT>
+
+<STDERR>
+ext2_cp: /Users/omar/Desktop/csc369-a4-test/src/fixtures/files/IDONTEXIST: No such file or directory
+

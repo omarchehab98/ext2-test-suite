@@ -1,0 +1,5 @@
+{
+    "description": "hard link from a relative path should be invalid",
+    "image": "onefile.img",
+    "args": ["/afile", "cannot/be/relative"]
+}

@@ -1,0 +1,15 @@
+Inodes: 32
+Blocks: 128
+Block group:
+    block bitmap: 3
+    inode bitmap: 4
+    inode table: 5
+    free blocks: 117
+    free inodes: 23
+    used_dirs: 4
+Block bitmap: 11111111 00000000 00001100 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000001 
+Inode bitmap: 10111111 11000000 00000000 00000000 
+
+Inodes:
+
+Directory Blocks:

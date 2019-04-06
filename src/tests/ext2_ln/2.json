@@ -1,0 +1,5 @@
+{
+    "description": "hard link a non existing dir entry should not work",
+    "image": "onefile.img",
+    "args": ["/cfile", "/bfile"]
+}

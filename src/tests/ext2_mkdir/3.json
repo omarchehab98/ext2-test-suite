@@ -1,0 +1,5 @@
+{
+    "description": "create subdirectory",
+    "image": "multilevel.img",
+    "args": ["/level1/sub"]
+}

@@ -1,0 +1,5 @@
+{
+    "description": "relative path should be invalid",
+    "image": "emptydisk.img",
+    "args": ["fixtures/files/hello.txt", "./relative/path"]
+}

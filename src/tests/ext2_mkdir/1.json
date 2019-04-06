@@ -1,0 +1,5 @@
+{
+    "description": "directory does not exist",
+    "image": "emptydisk.img",
+    "args": ["/test/afile"]
+}

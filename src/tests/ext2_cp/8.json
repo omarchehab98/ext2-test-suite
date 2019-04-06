@@ -1,0 +1,5 @@
+{
+    "description": "copy removed directory",
+    "image": "removed.img",
+    "args": ["fixtures/files/oneblock.txt", "/level1/file"]
+}

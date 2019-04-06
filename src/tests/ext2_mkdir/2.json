@@ -1,0 +1,5 @@
+{
+    "description": "file exists",
+    "image": "onefile.img",
+    "args": ["/afile"]
+}

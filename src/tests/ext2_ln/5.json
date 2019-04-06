@@ -1,0 +1,5 @@
+{
+    "description": "hard link from a sub directory should not work",
+    "image": "multilevel.img",
+    "args": ["/level1/level2", "/noop"]
+}

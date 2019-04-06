@@ -1,0 +1,5 @@
+{
+    "description": "copy empty file should not use datablock",
+    "image": "emptydisk.img",
+    "args": ["fixtures/files/empty.txt", "/empty"]
+}

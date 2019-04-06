@@ -1,0 +1,6 @@
+{
+    "description": "creates symbolic link and does not increment links count and uses a datablock",
+    "preargs": ["-s"],
+    "image": "onefile.img",
+    "args": ["/afile", "/bfile"]
+}
